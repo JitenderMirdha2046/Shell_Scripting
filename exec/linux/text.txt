@@ -1,0 +1,4 @@
+
+This is the file that i am creating while writing the content into it using 
+echo   this is the new text that i am adding jajajaj
+ 
